@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photo_and_video</string>
+    <string name="photo">Фото</string>
+    <string name="video">Видео</string>
+    <string name="GitHub">GitHub</string>
+    <string name="map">Карта</string>
+    <string name="call">Телефон</string>
+
+    </resources>
